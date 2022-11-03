@@ -1,0 +1,11 @@
+bg{
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1980px 1020px;
+	background-attachment: fixed;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	position: relative;
+}
+
